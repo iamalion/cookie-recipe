@@ -1,0 +1,32 @@
+#specialHeader {
+  color: blue;
+  font-size: 24px;
+  text-align: center;
+}
+
+/* Styles for the h2 elements */
+.h2styles {
+  color: green;
+  font-size: 18px;
+}
+
+/* Styles for the unordered list */
+.ul-style {
+  list-style-type: square;
+}
+
+/* Styles for the ordered list */
+.ol-style {
+  list-style-type: decimal;
+}
+
+/* Styles for the paragraph */
+p {
+  font-style: italic;
+}
+
+/* Styles for the anchor tag */
+a {
+  color: red;
+  text-decoration: none;
+}
